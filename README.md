@@ -1,2 +1,2 @@
 # myinfo
-my info
+Thameralonazi
