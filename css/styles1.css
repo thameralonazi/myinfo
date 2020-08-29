@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    background-color: sandybrown;
+}
+
+.container{
+    border: solid 10px rgba(54, 53, 56, 0.89);
+    display: table;
+    margin: auto;
+}
+
+.top-container{
+    background-color:brown; 
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.middle-container{
+    background-color: yellow;
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.secmiddle-container{
+    background-color: red;
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bottom-container{
+    background-color:blue;
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.holder{
+
+    border: solid 10px rgba(58, 56, 63, 0.788);
+    display: table;
+    margin: auto;
+}
+
+.top-holder{
+    background-color:rgb(10, 79, 97); 
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.middle-holder{
+    background-color:rgb(47, 177, 216); 
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.secmiddle-holder{
+    background-color:#47ed73; 
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bottom-holder{
+    background-color:#a2a6a3; 
+    height: 200px; 
+    width: 200px;
+    padding: 20px;
+    border: solid 10px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img{
+    width: 10rem;
+    height: 10rem;
+}
